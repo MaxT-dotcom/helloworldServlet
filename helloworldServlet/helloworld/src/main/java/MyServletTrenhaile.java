@@ -27,7 +27,7 @@ public class MyServletTrenhaile extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Hello World, courtesy of Git!");
+		response.getWriter().append("Hello World, courtesy of Git, and changed in Eclipse!");
 	}
 
 	/**
